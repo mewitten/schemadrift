@@ -1,0 +1,15 @@
+# Typescript
+
+node_modules/
+
+.next/
+npm-debug.log*
+.cache/
+Thumbs.db
+build/
+*.js.map
+out/
+Desktop.ini
+.DS_Store
+*.tsbuildinfo
+.env
